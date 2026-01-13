@@ -25,8 +25,7 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 ### 📊 GitHub Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaunitn&layout=compact)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaunitn)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

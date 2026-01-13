@@ -17,18 +17,16 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 ### 🔭 Selected Projects
 
-* **[SHADE](https://github.com/andreaunitn/SHADE)**: A forensic dataset designed for identifying the source device and operating system of images shared on social media.
-* **[SamSR](https://github.com/andreaunitn/SamSR)**: Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors (Fork).
+* **[SamSR](https://github.com/andreaunitn/SamSR)**: Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors.
 * **[xmn](https://github.com/andreaunitn/xmn)**: Advanced Human Computer Interaction project developed at UNITN.
+* **[SHADE](https://github.com/andreaunitn/SHADE)**: A forensic dataset designed for identifying the source device and operating system of images shared on social media.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&theme=tokyonight&hide_border=true" alt="Andrea's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaunitn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaunitn&layout=compact)
 
 ---
 

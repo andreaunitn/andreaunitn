@@ -23,12 +23,6 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 ---
 
-### 📊 GitHub Stats
-
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaunitn)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/andrea-tomasoni00/">

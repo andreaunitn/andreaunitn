@@ -18,7 +18,7 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 ### 🔭 Selected Projects
 
 * **[SamSR](https://github.com/andreaunitn/SamSR)**: Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors.
-* **[xmn](https://github.com/andreaunitn/xmn)**: Advanced Human Computer Interaction project developed at UNITN.
+* **[xrnn](https://github.com/andreaunitn/xrnn)**: Advanced Human Computer Interaction project developed at UNITN.
 * **[SHADE](https://github.com/andreaunitn/SHADE)**: A forensic dataset designed for identifying the source device and operating system of images shared on social media.
 
 ---

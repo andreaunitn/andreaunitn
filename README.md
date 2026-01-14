@@ -26,18 +26,6 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 ---
 
-### 📊 Activity & Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&theme=tokyonight&count_private=true&cache_buster=124" alt="Andrea's Stats" />
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=andreaunitn&theme=flat&no-frame=true&margin-w=15" alt="andreaunitn" />
-</a>
-
----
-
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/andrea-tomasoni00/">

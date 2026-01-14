@@ -12,14 +12,29 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ---
 
 ### 🔭 Selected Projects
 
-* **[SamSR](https://github.com/andreaunitn/SamSR)**: Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors.
-* **[xrnn](https://github.com/andreaunitn/xrnn)**: Advanced Human Computer Interaction project developed at UNITN.
-* **[SHADE](https://github.com/andreaunitn/SHADE)**: A forensic dataset designed for identifying the source device and operating system of images shared on social media.
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[SamSR](https://github.com/andreaunitn/SamSR)** | 🖼️ Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors. | `PyTorch` `Deep Learning` |
+| **[xrnn](https://github.com/andreaunitn/xrnn)** | 🤖 Advanced Human Computer Interaction project developed at UNITN. | `HCI` `AI` |
+| **[SHADE](https://github.com/andreaunitn/SHADE)** | 🕵️‍♂️ A forensic dataset for identifying source device & OS of social media images. | `Python` `Forensics` |
+
+---
+
+### 📊 Activity & Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andreaunitn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Andrea's Streak" />
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=andreaunitn&theme=flat&no-frame=true&margin-w=15" alt="andreaunitn" />
+</a>
 
 ---
 
@@ -27,6 +42,9 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 <a href="https://www.linkedin.com/in/andrea-tomasoni00/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://scholar.google.com/citations?user=-frGrRcAAAAJ&hl=it">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 <a href="mailto:andrea.tomasoni2000@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

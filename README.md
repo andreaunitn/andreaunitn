@@ -28,7 +28,7 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 
 ### 📊 Activity & Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&theme=tokyonight&count_private=true&cache_buster=123" alt="Andrea's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=andreaunitn&show_icons=true&theme=tokyonight&count_private=true&cache_buster=124" alt="Andrea's Stats" />
 
 <br/>
 

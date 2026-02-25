@@ -22,7 +22,7 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 | :--- | :--- | :--- |
 | **[xrnn](https://github.com/andreaunitn/xrnn)** | 🤖 Advanced Human Computer Interaction project developed at UNITN. | `HCI` `AI` |
 | **[SHADE](https://github.com/andreaunitn/SHADE)** | 🕵️‍♂️ A forensic dataset for identifying source device & OS of social media images. | `Python` `Forensics` |
-<!-- … -->| **[SamSR](https://github.com/andreaunitn/SamSR)** | 🖼️ Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors. | `PyTorch` `Deep Learning` |
+<!--- | **[SamSR](https://github.com/andreaunitn/SamSR)** | 🖼️ Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors. | `PyTorch` `Deep Learning` | -->
 
 ---
 

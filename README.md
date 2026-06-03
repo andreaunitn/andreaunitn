@@ -24,6 +24,7 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 | **[SHADE](https://github.com/andreaunitn/SHADE)** | 🕵️‍♂️ A forensic dataset for identifying source device & OS of social media images. | `Python` `Forensics` |
 | **[VAE](https://github.com/andreaunitn/VAE)** | 🎨 Generative image modeling with VAE, VQ-VAE, and autoregressive priors (PixelCNN, Transformer). | `PyTorch` `Generative Models` |
 | **[Canny](https://github.com/andreaunitn/Canny)** | ⚡ From-scratch Canny edge detector in C, parallelized with OpenMP and OpenCL for a 40× speedup. | `C` `Parallel Computing` |
+| **[Person-ReID](https://github.com/andreaunitn/Person-ReID)** | 👥 Siamese ResNet-50 for person re-identification on Market-1501 and DukeMTMC-reID (94.8% rank-1, 84.0% mAP). | `PyTorch` `Metric Learning` |
 <!--- | **[SamSR](https://github.com/andreaunitn/SamSR)** | 🖼️ Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors. | `PyTorch` `Deep Learning` | -->
 
 ---

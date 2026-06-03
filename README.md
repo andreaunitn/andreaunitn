@@ -22,6 +22,8 @@ Based in **Brescia, Italy** 🇮🇹, I specialize in **Computer Vision**, **Mul
 | :--- | :--- | :--- |
 | **[xrnn](https://github.com/andreaunitn/xrnn)** | 🤖 Advanced Human Computer Interaction project developed at UNITN. | `HCI` `AI` |
 | **[SHADE](https://github.com/andreaunitn/SHADE)** | 🕵️‍♂️ A forensic dataset for identifying source device & OS of social media images. | `Python` `Forensics` |
+| **[VAE](https://github.com/andreaunitn/VAE)** | 🎨 Generative image modeling with VAE, VQ-VAE, and autoregressive priors (PixelCNN, Transformer). | `PyTorch` `Generative Models` |
+| **[Canny](https://github.com/andreaunitn/Canny)** | ⚡ From-scratch Canny edge detector in C, parallelized with OpenMP and OpenCL for a 40× speedup. | `C` `Parallel Computing` |
 <!--- | **[SamSR](https://github.com/andreaunitn/SamSR)** | 🖼️ Exploring Semantic-Aware Super-Resolution utilizing SAM 2 Priors. | `PyTorch` `Deep Learning` | -->
 
 ---
